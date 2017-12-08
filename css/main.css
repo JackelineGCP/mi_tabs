@@ -1,0 +1,16 @@
+.tabs{
+  background-color: grey;
+  color: white;
+  display: inline-block;
+  padding: 18px;
+  margin: 28px;
+}
+.parrafo{
+  width: 60%;
+}
+.hidden{
+  display: none;
+}
+.red{
+  background-color: rgb(238, 56, 56);
+}
